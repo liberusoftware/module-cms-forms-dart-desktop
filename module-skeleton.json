@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-forms-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-forms",
+  "presentation": "dart-desktop",
+  "package": "module_cms_forms_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/cms-forms.md",
+  "presentationPlan": "projects/cms/features/cms-forms.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
